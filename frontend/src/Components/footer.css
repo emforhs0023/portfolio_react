@@ -1,0 +1,9 @@
+.footerIcon{
+	float: left;
+    line-height: 2;
+    font-size: 20px;
+}
+.iconed-text{
+	float: left;
+	margin-left: 10px;
+}
